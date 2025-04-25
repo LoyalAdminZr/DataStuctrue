@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/DoubleSxLink2/RunMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DoubleSxLink2/SxIntLink.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SeqList2/ISeqList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SeqList2/RunMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SeqList2/StudSeqList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SeqList2/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SingleSxList2/ILinkListMethod.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SingleSxList2/RunMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SingleSxList2/SingleSxLink.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SingleSxList2/StudNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StudLinkList2/ILinkList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StudLinkList2/RunMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StudLinkList2/StudLinkList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/StudLinkList2/Student.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
